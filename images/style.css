@@ -97,7 +97,9 @@ h3{
 .content{
     width: 75%;
     display: inline-block;
+    flex: wrap;
     margin-left: 20px;
+    
 }
 
 /* end of hero content style  */
